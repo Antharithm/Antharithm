@@ -3,17 +3,18 @@
 Hey there! 
 I'm Anthony Tilotta --- Blockchain professional who specializes in both Solidity and Python computer programming languages. Experience working with Big Data Science and Machine Learning methods such as Artificial Intelligence, which are utilized for various research projects.
 
-❤️ Enjoys creating many types of smart contracts while also coding financial dataframes for producing visualization models.
+❤️ Enjoys coding smart contracts and also working with DataFrames to produce visual financial models.  
 
-🎓 Recently certified from the University of Pennsylvania FinTech BootCamp with an A.
+🎓 Recently certified from the University of Pennsylvania FinTech BootCamp, with an A.
 
-🌱 BA in Multi-Media studies and production from Temple University.
+🌱 B.A. in Multi-Media Studies & Production from Temple University, Philadelphia PA.
 
-✍️ In my leisure time, I like to read books, write stories, take nature walks and continue to learn!
+✍️ In my leisure time I like reading books, writing stories, going on nature walks and continuing to learn new things!
 
-🎵 I am also a multi instrumentalist and play at music festivals as often as I can.
+🎵 I'm also a multi-instrumentalist and preform at music festivals as often as I can.
 
-💬 Currently looking for a right opportunity in the field of Finance & Technology. Feel free to reach out to me for working together, volunteering, or just for some interesting discussion. Blockchain technology is something that I am very passionate about.
+💬 Currently looking for new and exciting opportunities in the field of Finance / Technology. Blockchain tech is something that I am very passionate about.
+Feel free to reach out to me for working together, volunteering, or just for some interesting discussion! 
 
 ✉️ Send me an email at: anthonytilotta303@gmail.com and I'll respond as soon as I can.
 
