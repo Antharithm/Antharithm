@@ -18,3 +18,6 @@ I'm Anthony Tilotta --- Blockchain professional who specializes in both Solidity
 ✉️ Send me an email at: anthonytilotta303@gmail.com and I'll respond as soon as I can.
 
 📄 For more details about me, please take a look at my Résumé.
+
+### Let's Connect:
+https://docs.google.com/document/d/1CvvYt_dqcK9870Jop28OoEmSu-79A4bwa4LRUW-YIrI/edit?usp=sharing
