@@ -1,4 +1,5 @@
-Hello! I'm Anthony Tilotta --- Blockchain professional who specializes in both Solidity and Python computer programming languages. Experience working with Big Data Science and Machine Learning methods such as Artificial Intelligence, which are utilized for various research projects.
+Hey there! 
+I'm Anthony Tilotta --- Blockchain professional who specializes in both Solidity and Python computer programming languages. Experience working with Big Data Science and Machine Learning methods such as Artificial Intelligence, which are utilized for various research projects.
 
 ❤️ Enjoys creating many types of smart contracts while also while coding financial models with visualization.
 
