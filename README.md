@@ -11,7 +11,7 @@ My name is Anthony Tilotta --- Blockchain professional who specializes in both S
 
 ✍️ In my leisure time I like reading books, writing stories, going on nature walks and continuing to learn new things!
 
-🎵 I'm also a multi-instrumentalist and preform at music festivals as often as I can.
+🎵 I'm a multi-instrumentalist and preform at music festivals as often as I can.
 
 💬 Currently looking for new and exciting opportunities in the field of Finance / Technology. Blockchain tech is something that I am very passionate about.
 Feel free to reach out to me for working together, volunteering, or just for some interesting discussion! 
