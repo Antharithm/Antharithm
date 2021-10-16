@@ -9,13 +9,13 @@ My name is Anthony Tilotta --- Blockchain professional who specializes in both S
 
 🌱 B.A. in Multi-Media Studies & Production from Temple University, Philadelphia PA.
 
-✍️ In my leisure time I like reading books, writing stories, going on nature walks and continuing to learn new things!
+✍️ In my leisure time I like reading books, writing stories and going on nature walks.
 
-🎵 I'm a multi-instrumentalist and preform at music festivals as often as I can.
+🎵 I'm a multi-instrumentalist. I love playing live music!
 
 💬 Currently looking for new and exciting opportunities in the field of Finance / Technology. Blockchain tech is something that I am very passionate about.
-Feel free to reach out to me for working together, volunteering, or just for some interesting discussion! 
+Feel free to reach out to me about working together, volunteering, or just for some interesting discussion! 
 
 ✉️ Send me an email at: anthonytilotta303@gmail.com and I'll respond as soon as I can.
 
-### Let's Connect!
+### Let's connect! ^
