@@ -1,6 +1,7 @@
 ![Blockchain hands](https://user-images.githubusercontent.com/83500098/137349296-81ee6ec1-972d-4a59-b3e1-9c962537e198.jpg)
 
-Hey there! 
+Hello there!
+
 My name is Anthony Tilotta --- Blockchain professional who specializes in both Solidity and Python computer programming languages. Experience working with Big Data Science and Machine Learning methods such as Artificial Intelligence, which are utilized for various research projects.
 
 ❤️ Enjoys coding smart contracts and also working with DataFrames to produce visual financial models.  
