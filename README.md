@@ -6,7 +6,7 @@ My name is Anthony Tilotta --- and I'm a Blockchain professional who codes in bo
 
 ❤️ Enjoys coding smart contracts and also working with DataFrames to produce visual models.  
 
-🎓 Recently certified from the University of Pennsylvania FinTech BootCamp, with an A.
+🎓 Recently certified from the University of Pennsylvania FinTech BootCamp, with an A+.
 
 🌱 B.A. in Multi-Media Studies & Production from Temple University, Philadelphia PA.
 
