@@ -4,15 +4,15 @@ Greetings!
 
 My name is Anthony - I'm a Blockchain developer who specializes in Python and Solidity. I like building Web3 dapps, using APIs, and running complex Machine Learning simulations.
 
-❤️ Enjoys coding EVM compandable smart contracts
+❤️ Enjoys coding EVM compatible smart contracts
 
 🎓 Graduated from the University of Pennsylvania FinTech BootCamp with an A
 
 🌱 Has a B.A. in Multi Media Formats & Production from Temple University
 
-✍️ In my leisure time I like to read, wrrite stories and go on nature walks
+✍️ In my leisure time I like to read, write stories and go on nature walks
 
-🎵 I'm a multi-instrumentalist, love playing live music 🎵
+🎵 I'm a multi-instrumentalist and love playing live music 🎵
 
 💬 Currently looking for new and exciting opportunities in Blockchain. I'm passionate about the diverse possiblies within the Web3 space. Please free to reach out to me about working together, volunteering, or to have an interesting discussion!
 
