@@ -14,7 +14,7 @@ My name is Anthony - I'm a Blockchain developer who specializes in Python and So
 
 🎵 I'm a multi-instrumentalist and love playing live music 🎵
 
-💬 Currently looking for new and exciting opportunities in Blockchain. I'm passionate about the diverse possiblies within the Web3 space. Please free to reach out to me about working together, volunteering, or to have an interesting discussion!
+💬 Currently looking for new and exciting opportunities in Blockchain. I'm passionate about the diverse possiblies within the Web3 space. Please free to reach out to me about working together, volunteering, or even just for some interesting discussion!
 
 ✉️ You can send me an email here: anthibian303@gmail.com and I'll respond as soon as I can
 
