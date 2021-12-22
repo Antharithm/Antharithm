@@ -8,7 +8,7 @@ My name is Anthony and I'm a Blockchain developer who specializes in Python and 
 
 🎓 Graduated from the University of Pennsylvania FinTech BootCamp with an A
 
-🌱 Has a B.A. in Multi Media Formats & Production from Temple University
+🌱 Has a B.A. in Multi Media Production from Temple University
 
 ✍️ In my leisure time I like to read and go on nature walks
 
