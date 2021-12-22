@@ -10,7 +10,7 @@ My name is Anthony and I'm a Blockchain developer who specializes in Python and 
 
 🌱 Has a B.A. in Multi Media Production from Temple University
 
-✍️ In my leisure time I like to read and go on nature walks
+✍️ In my leisure time I like to read books and go on nature walks
 
 🎵 I'm a multi-instrumentalist and love playing live music 🎵
 
