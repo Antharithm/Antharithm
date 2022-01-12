@@ -2,7 +2,7 @@
 
 Greetings!
 
-My name is Anthony and I'm a Blockchain developer who specializes in Python and Solidity. I like building on Web3, using APIs, and running Machine Learning simulations.
+My name is Anthony and I'm a Blockchain developer who specializes in Python and Solidity. I like building on Web3 and running Machine Learning simulations.
 
 ❤️ Enjoys coding EVM compatible smart contracts
 
