@@ -14,7 +14,7 @@ My name is Anthony and I'm a Blockchain developer who specializes in Python and 
 
 🎵 I'm a multi-instrumentalist and love playing live music 🎵
 
-💬 Always looking for new and exciting opportunities that involve Blockchain. I'm passionate about the diverse possiblies web3 can offer. Please free to reach out to me about working together, volunteering, or even just for some interesting discussion!
+💬 Always looking for new and exciting opportunities that involve Blockchain. I'm passionate about the diverse possiblies web3 has to offer. Please free to reach out to me about working together, volunteering, or even just for some interesting discussion!
 
 ✉️ You can send me an email here: anthonytilotta303@gmail.com and I'll respond as soon as I can
 
