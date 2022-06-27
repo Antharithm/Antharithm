@@ -2,15 +2,15 @@
 
 Greetings!
 
-My name is Anthony and I'm a Blockchain developer who specializes in Python and Solidity. I like building Web3 dapplications and experimenting with Machine Learning simulations.
+My name is Anthony and I'm a Blockchain developer who specializes in Python and Solidity. I like building Web3 dapps and experimenting with Machine Learning simulations.
 
-⛓️ Enjoys coding EVM compatible smart contracts
+⛓️ Enjoys coding smart contracts with EVM compatibility
 
-🎓 Graduated from the University of Pennsylvania FinTech BootCamp with an A
+🎓 Graduated from the University of Pennsylvania FinTech BootCamp
 
-🌱 Has a B.A. in Multi Media Production from Temple University
+🌱 Has a B.A. from Temple University in Multi Media Production
 
-🔭 In my leisure time I like to read and explore outdoors
+🔭 In my leisure time I like to read and explore the outdoors ⛰️
 
 🎵 I'm a multi-instrumentalist and love playing live music 🎵
 
@@ -18,4 +18,4 @@ My name is Anthony and I'm a Blockchain developer who specializes in Python and 
 
 ✉️ You can send me an email here: anthonytilotta303@gmail.com and I'll respond as soon as I can
 
-### Let's connect! ^
+### Let's connect ^
