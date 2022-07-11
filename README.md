@@ -1,4 +1,4 @@
-![Blockchain hands](https://user-images.githubusercontent.com/83500098/137349296-81ee6ec1-972d-4a59-b3e1-9c962537e198.jpg)
+![Blockchain networks](https://bernardmarr.com/img/30%20Real%20Examples%20Of%20Blockchain%20Technology%20In%20Practice.png)
 
 Greetings!
 
