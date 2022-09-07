@@ -1,6 +1,6 @@
 ![Blockchain networks](https://bernardmarr.com/img/30%20Real%20Examples%20Of%20Blockchain%20Technology%20In%20Practice.png)
 
-# Greetings!
+Greetings!
 
 My name is Anthony and I'm a Blockchain developer who specializes in Python and Solidity. I like building Web3 dapps and experimenting with Machine Learning simulations.
 
