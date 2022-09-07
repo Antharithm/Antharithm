@@ -1,6 +1,6 @@
 ![Blockchain networks](https://bernardmarr.com/img/30%20Real%20Examples%20Of%20Blockchain%20Technology%20In%20Practice.png)
 
-Greetings!
+# Greetings!
 
 My name is Anthony and I'm a Blockchain developer who specializes in Python and Solidity. I like building Web3 dapps and experimenting with Machine Learning simulations.
 
@@ -16,6 +16,6 @@ My name is Anthony and I'm a Blockchain developer who specializes in Python and 
 
 💬 Always looking for new and exciting opportunities that involve Blockchain. I'm passionate about the diverse possiblies web3 has to offer. Please free to reach out to me about working together, volunteering, or even just for some interesting discussion!
 
-✉️ You can send me an email here: anthonytilotta303@gmail.com and I'll respond as soon as I can
+✉️ You can send me an email here: antharithm707@gmail.com and I will respond as soon as I can
 
 ### Let's connect ^
