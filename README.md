@@ -16,6 +16,6 @@ My name is Anthony and I'm a Blockchain developer. I like building web3 dapps an
 
 IG: [instagram.com/antharhythm](https://www.instagram.com/antharhythm/)
 
-Twitter: twitter.com/antharhythm
+Twitter: [twitter.com/antharhythm](https://twitter.com/antharhythm)
 
 ### Let's connect ^
