@@ -14,4 +14,7 @@ My name is Anthony and I'm a Blockchain developer. I like building web3 dapps an
 
 ✉️ You can send me an email here: antharithm707@gmail.com and I will respond as soon as I can
 
+IG = https://www.instagram.com/antharhythm/
+Twitter = https://twitter.com/antharhythm
+
 ### Let's connect ^
