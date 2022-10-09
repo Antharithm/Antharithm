@@ -4,8 +4,6 @@ Greetings!
 
 My name is Anthony and I'm a Blockchain developer. I like building web3 dapps and experimenting with Machine Learning simulations.
 
-⛓️ I enjoy coding smart contracts ⛓️
-
 🔭 In my leisure time I like to read and explore outdoors ⛰️
 
 🎵 I'm a multi-instrumentalist and love playing live music 🎵
