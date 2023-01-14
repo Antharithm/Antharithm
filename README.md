@@ -14,6 +14,4 @@ My name is Anthony. I'm a Fullstack Blockchain developer. I like building web3 d
 
 Instagram: [instagram.com/antharhythm](https://www.instagram.com/antharhythm/)
 
-Twitter: [twitter.com/antharhythm](https://twitter.com/antharhythm)
-
 ### Let's connect ^
