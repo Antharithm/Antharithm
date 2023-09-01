@@ -12,7 +12,6 @@ My name is Anthony. I'm a Fullstack Blockchain developer. I like building web3 d
 
 ✉️ You can send me an email here: antharithm707@gmail.com and I'll respond as soon as possible.
 
-Instagram: [instagram.com/antharhythm](https://www.instagram.com/antharhythm/)
 Twitter: https://twitter.com/antharithm
 
 ### Let's connect ^
