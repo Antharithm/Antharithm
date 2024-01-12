@@ -8,7 +8,7 @@ My name is Anthony. I'm a Fullstack Blockchain developer. I like building web3 d
 
 🎵 I'm a multi-instrumentalist and love playing live music 🎵
 
-💬 Always looking for new and exciting opportunities that involve Blockchain. I am passionate about the diverse possiblies web3 has to offer. Feel free to reach out to me about working together, or we can just have some interesting discussions!
+💬 Always looking for new and exciting opportunities that involve Blockchain. I am passionate about the diverse possibilities web3 has to offer. Feel free to reach out to me about working together, or we can just have some interesting discussions!
 
 ✉️ You can send me an email here: antharithm707@gmail.com and I'll respond as soon as possible.
 
