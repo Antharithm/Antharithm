@@ -3,6 +3,7 @@
 Greetings!
 
 My name is Anthony. I'm a Fullstack Blockchain developer. I like building web3 dapps and experimenting with Machine Learning simulations. I specialize in Solidity, JavaScript and Python programming languages.
+
 🔭 In my leisure time I like to read and explore outdoors ⛰️
 
 🎵 I'm a multi-instrumentalist and love playing live music 🎵
