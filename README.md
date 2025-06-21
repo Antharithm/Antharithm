@@ -2,7 +2,7 @@
 
 Greetings!
 
-My name is Anthony. I'm a Fullstack developer specilizing in Solidity (blockchain development), Websites and Audio Sound Design. I like building web3 dapps and experimenting with audio creation. I specialize in Solidity, JavaScript, Typescript and Python programming languages.
+My name is Anthony. I'm a Fullstack developer specilizing in mobile and web applications. Solidity (blockchain development), Websites and Audio Sound Design. API implementation. I like building web3 dapps and experimenting with audio creation. I specialize in Solidity, JavaScript, Typescript and Python programming languages.
 
 🔭 In my leisure time I like to ride my bike and explore the outdoors ⛰️
 
