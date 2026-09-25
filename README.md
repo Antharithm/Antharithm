@@ -2,17 +2,17 @@
 
 Greetings!
 
-My name is Anthony. I'm a Fullstack developer specilizing in mobile and web applications. Solidity (blockchain dapps), Websites, Landing pages, Audio Sound Design and API implementations.
+My name is Anthony. I'm a Developer Advocate with extensive experience bridging the gap between engineering teams and developer communities. I specialize in developer documentation, API implementations, AI workflows, demo apps, websites, and audio/video tutorials.
 
-🔭 In my leisure time I like to ride my bike and explore the outdoors ⛰️
+🔭 In my leisure time I like to ride my bike, discover great coffee shops and explore the outdoors ⛰️
 
 🎵 I'm a multi-instrumentalist and love playing live music with my band 🎵
 
-💬 Always looking for new and exciting opportunities. Feel free to reach out to me about working together and bringing your app ideas to life.
+☕️ Founder of Cortado, a React Native app connecting coffee communities around the world 🌎
 
-✉️ You can send me an email here: antharithm707@gmail.com and I'll respond as soon as possible.
+💬 Always looking for new and exciting opportunities. Reach out to me about working together and bringing your app ideas to life.
 
-Instagram: https://www.instagram.com/antharhythm/
-Twitter: https://twitter.com/antharithm
+### Let's connect
 
-### Let's connect ^
+Portfolio: https://antharithm.github.io/devrel-portfolio/
+Email: antharithm707@gmail.com
