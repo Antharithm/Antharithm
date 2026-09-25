@@ -15,4 +15,3 @@ My name is Anthony. I'm a Developer Advocate with extensive experience bridging 
 ### Let's connect
 
 Portfolio: https://antharithm.github.io/devrel-portfolio/
-Email: antharithm707@gmail.com
