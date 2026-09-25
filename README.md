@@ -12,6 +12,4 @@ My name is Anthony. I'm a Developer Advocate with extensive experience bridging 
 
 💬 Always looking for new and exciting opportunities. Reach out to me about working together and bringing your app ideas to life.
 
-### Let's connect
-
 Portfolio: https://antharithm.github.io/devrel-portfolio/
